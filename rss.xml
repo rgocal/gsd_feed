@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+
+<title>GocalSD News Feed</title>
+<description>GSD news header</description>
+
+<item>
+<title>Happy Holidays</title>
+<description>GSD wishes you a happy holidays</description>
+</item>
+
+<item>
+<title>Sapphire UI</title>
+<description>Version11 Stable is almost here</description>
+</item>
+
+</channel>
+</rss>
