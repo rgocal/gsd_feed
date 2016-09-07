@@ -1,21 +1,13 @@
-<?xml version="1.0"?>
-<rss version="2.0">
-<channel>
+<news>
+  
+<newsitem headline="We're live!">
+<text>GSD Mobile is now live!</text>
+<date>7 September 2016</date>
+</newsitem>
 
-<title>GocalSD News Feed</title>
-<description>GSD news header</description>
-<link>https://github.com/rgocal/gsd_feed/edit/master/rss.xml</link>
+<newsitem headline="Welcome to the Newsfeed!">
+<text>You'll find current events, announcments, blog summaries, project exclusive info and more here! Expect more as we get settled down.</text>
+<date>7 September 2016</date>
+</newsitem>
 
-
-<item>
-<title>Happy Holidays</title>
-<description>GSD wishes you a happy holidays</description>
-</item>
-
-<item>
-<title>Sapphire UI</title>
-<description>Version11 Stable is almost here</description>
-</item>
-
-</channel>
-</rss>
+</news>
