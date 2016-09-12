@@ -1,5 +1,11 @@
 <news>
 
+
+<newsitem headline="Sapphire Launcher 11.4">
+<text>The newest update is available via Google Play and XDA Labs. Preparation for translations are almost here. One issue is being tracked with the dark statusbar as it borks the widget container when activated but doesn't affect anything else. A fix is being investigated. Simply deactivate the tweak if errors accure. Please report the problem via Bug report feature or the google plus group. </text>
+<date>12 September 2016</date>
+</newsitem>
+
 <newsitem headline="Sapphire License Keys">
 <text>An October scheduled updated will allow Sapphire Launcher License keys to be universal on both Sapphire Launcher and Sapphyx Launcher. This update will add license verification via google play purchases and a universal name to not confuse new and legacy customers. Onyx keys will be verified upon Early Access for Sapphyx Launcher.</text>
 <date>8 September 2016</date>
