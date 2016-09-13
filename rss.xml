@@ -1,5 +1,9 @@
 <news>
 
+<newsitem headline="2017 Expected Roadmap">
+<text>Several new apps are in development for GSD to release in 2017 and several major updates for legacy apps. A wide range of new tools, utilities and methods will be used to develop the new gen release of apps using 64bit technology and compilers. A great learning process. </text>
+<date>13 September 2016</date>
+</newsitem>
 
 <newsitem headline="Sapphire Launcher 11.4">
 <text>The newest update is available via Google Play and XDA Labs. Preparation for translations are almost here. One issue is being tracked with the dark statusbar as it borks the widget container when activated but doesn't affect anything else. A fix is being investigated. Simply deactivate the tweak if errors accure. Please report the problem via Bug report feature or the google plus group. </text>
