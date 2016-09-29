@@ -1,5 +1,19 @@
 <news>
 
+<newsitem headline="Enjoy my work?">
+<text>Please take the time to rate GSD Mobile on Google Play and share it with friends that may like my work. Im expanding my horizons in 2017 to increase popularity, revenue and knowledge. Bigger and better things are in the horizon.  </text>
+<date>29 September 2016</date>
+</newsitem>
+
+<newsitem headline="Slab">
+<text>Based on Sapphire Launcher's Dashclock Panel feature, Slab is a new dashclock management app set to release in 2017 for Android 6.0+ More information as it becomes available. It will also be an add-on for Project Niebieski. </text>
+<date>29 September 2016</date>
+</newsitem>
+
+<newsitem headline="GSD Maintenance">
+<text>GocalSD will be going under maintenance this weekend. If visiting the domain and you experience a slow connection or buggy behavior, that is the culpret and not your internet provider or neighbors wifi. These changes is for a new update expexted for GSD Mobile soon regarding the newsfeed. </text>
+<date>29 September 2016</date>
+</newsitem>
 
 <newsitem headline="Sapphire's Fall Update">
 <text>The new launcher update is expected to drop in October with a variety of interface changes and enhancements for Android N and bugs fixes that have been tracked since discovery. Stay tuned to GSD. </text>
@@ -11,13 +25,8 @@
 <date>23 September 2016</date>
 </newsitem>
 
-<newsitem headline="Dew Companion">
-<text>Halo Online Eldewrito Mod is my target in my next small project. A companion application will be developed for Halo PC players to find and navigate through information easily and target specific threads on Reddit,community content and software updates and more. Stay tuned for more information and a Vidoc explaining the purpose of the project and why inwish to support this project. </text>
-<date>17 September 2016</date>
-
-</newsitem>
 <newsitem headline="Niebieski Information services">
-<text>New information about the launcher project going into development soon is servicing on GSD. Sapphyx Launcher will put the hammer down for performance and reliability for a launcher desktop in Android N with custom performance drivers, a hybrid key registry and more expansion based enhancements. </text>
+<text>New information about the launcher project going into development soon is surfacing on GSD. Sapphyx Launcher will put the hammer down for performance and reliability for a launcher desktop in Android N with custom performance drivers, a hybrid key registry and more expansion based enhancements. </text>
 <date>17 September 2016</date>
 </newsitem>
 
@@ -36,23 +45,13 @@
 <date>13 September 2016</date>
 </newsitem>
 
-<newsitem headline="Sapphire License Keys">
-<text>An October scheduled updated will allow Sapphire Launcher License keys to be universal on both Sapphire Launcher and Sapphyx Launcher. This update will add license verification via google play purchases and a universal name to not confuse new and legacy customers. Onyx keys will be verified upon Early Access for Sapphyx Launcher.</text>
+<newsitem headline="System76 Kudo Donation">
+<text>Recent development is of need of a more powerful workspace. I am currently investing Onyx keys and Ads revenue towards a System 76 Kudo for Android development. If you'd like to donate to this, you may send a small donation to my gmail via Google Wallet. Recent updates Via windows10 have corrupted my ability to manage a dual boot system of Ubuntu and Windows and risking valuable information and data isnt apart of my game plan. </text>
 <date>8 September 2016</date>
-</newsitem>
-
-<newsitem headline="Kudos Donation">
-<text>Recent development is of need of a more powerful workspace. I am currently investing Onyx keys and Ads revenue towards a System 76 Kudos for Android development. If you'd like to donate to this, you may send a small donation to my gmail via Google Wallet. Recent updates Via windows10 have corrupted my ability to manage a dual boot system of Ubuntu and Windows and risking valuable information and data isnt apart of my game plan. </text>
-<date>8 September 2016</date>
-</newsitem>
-  
-<newsitem headline="We're live!">
-<text>GSD Mobile is now live!</text>
-<date>7 September 2016</date>
 </newsitem>
 
 <newsitem headline="Welcome to the Newsfeed!">
-<text>You'll find current events, announcments, blog summaries, project exclusive info and more here! Expect more as we get settled down.</text>
+<text>You'll find current events, announcments, blog summaries, project exclusive info and more here!</text>
 <date>7 September 2016</date>
 </newsitem>
 
