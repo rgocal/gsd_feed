@@ -1,5 +1,21 @@
 <news>
 
+<newsitem headline="The Transition?">
+<text>Sapphire Launcher has been in development for 2 years and continuing. Questions have been asked will we ever see a sequel to Sapphire Launcher? A rebase? With the development of Sapphyx Launcher, it will divide the user base in 2 groups. A premium group and fremium group. Sapphyx will be more original with bare minimum android libs used and Sapphire Launcher being a group project. Sapphire Launcher uses deprecated code from launcher 3 base tree providing users a compat usage between android 5 and beyond. With a possible suggested sequel with rebased code as a seperate package. Reasons for a seperate package is the updated code cant handle older methods of customization, the same features but different methods. This would provide an upgrade to returning users. Sapphyx Launcher is more of a private project testing my ability to perform providing me funds to continue my work. In order for me to continue to serve the community, time must be invested this year as my life becomes more busy with work and family. </text>
+<date>2 October 2016</date>
+</newsitem>
+
+
+<newsitem headline="Slab">
+<text>A new application is currently in the works for Dashclock users. Slab is a Google On-Tap replacement to serve as a search engine and dashclock widget provider. More information will become available as it starts to take shape.</text>
+<date>2 October 2016</date>
+</newsitem>
+
+<newsitem headline="GSD Newsfeed Changes">
+<text>The official news feed page will be removed from the navigation menu on GocalSD. This change will make the GSD Mobile app more convenient as the newsfeed will than load on the app and direct users to a page with more information. This change will take affect in later October. </text>
+<date>2 October  2016</date>
+</newsitem>
+
 <newsitem headline="Enjoy my work?">
 <text>Please take the time to rate GSD Mobile on Google Play and share it with friends that may like my work. Im expanding my horizons in 2017 to increase popularity, revenue and knowledge. Bigger and better things are in the horizon.  </text>
 <date>29 September 2016</date>
@@ -7,11 +23,6 @@
 
 <newsitem headline="Slab">
 <text>Based on Sapphire Launcher's Dashclock Panel feature, Slab is a new dashclock management app set to release in 2017 for Android 6.0+ More information as it becomes available. It will also be an add-on for Project Niebieski. </text>
-<date>29 September 2016</date>
-</newsitem>
-
-<newsitem headline="GSD Maintenance">
-<text>GocalSD will be going under maintenance this weekend. If visiting the domain and you experience a slow connection or buggy behavior, that is the culpret and not your internet provider or neighbors wifi. These changes is for a new update expexted for GSD Mobile soon regarding the newsfeed. </text>
 <date>29 September 2016</date>
 </newsitem>
 
