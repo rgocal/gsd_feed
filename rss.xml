@@ -1,18 +1,38 @@
 <news>
   
-<newsitem headline="GSD Newsfeed Changes">
-<text>I will be putting together a Google Plus Group for GocalSD Soon. This page will be used for future blogs and news announcments as its more dependable than Weeblys blog system. The page will be linked to GocalSD soon and GSD Mobile will have a new blog system that will be linked to it for major announcments. Stay tuned for the changes to take affect.</text>
-<date>15 October  2016</date>
+<newsitem headline="GSD Mobile Development">
+<text>Development is now being focused on making GSD Mobile for a more diverse app for the community. Supporting both Tablets and Mobile, GSD Mobile is currently being re-designed to be a more informative application linking to both the Facebook and Google Plus groups for the 2 types of communities.</text>
+<date>23 October  2016</date>
+</newsitem>
+  
+<newsitem headline="Sapphire Launcher's 12.00 Fall Update">
+<text>The festival of the lost is among us, so is Sapphire Launcher's next update. Update 12 includes a handfull of phyical changes, a few new tricks and treats and a bag full of bug fixes for Android 5, 5.1, 6, and 7! GocalSD will announce when the update goes live and is highly recommended to accept this update when it goes up. Translations will also be started on Github for anyone who is interested in world wide distribution. Thankyou for using Sapphire Launcher! Be sure to join the Sapphire Launcher Google Plus Group for more information and updates as well as keeping an eye on the XDA Thread. Regards, Ry</text>
+<date>23 October 2016</date>
+</newsitem>
+  
+<newsitem headline="Slab Open Beta">
+<text>GocalSD is now in development of a new Dashclock Host app called Slab. Its heavily under construction at this time to provide as a stable host for Dashclock Extensions however you can join an open beta to help with development and provide feedback. https://plus.google.com/communities/114104888729574173929</text>
+<date>23 October 2016</date>
+</newsitem>
+  
+<newsitem headline="Changes Regarding Sapphire Launcher Keys">
+<text>Basic, Premium and Onyx Keys will be recieving a new update soon to allow them as a universal access pass to future apps developed by GocalSD so they are not just limited to Sapphire Launcher. More information to come as it becomes available.</text>
+<date>23 October 2016</date>
+</newsitem>
+  
+<newsitem headline="GSD on Google Plus">
+<text>GocalSD has expanded its social media blogging to Google Plus to reach out to a more expanded focus group. You can join up by liking our page. https://plus.google.com/communities/108567249160916172770</text>
+<date>23 October 2016</date>
+</newsitem>
+  
+<newsitem headline="GSD on Facebook">
+<text>GocalSD has expanded its social media blogging to Facebook to reach out to a more expanded focus group. You can join up by liking our page. https://www.facebook.com/Gocalsd</text>
+<date>23 October 2016</date>
 </newsitem>
   
 <newsitem headline="Prism Assistant">
 <text>A new update has been pushed to Google Play to remove the paid option and make it free to all. Enjoy!</text>
-<date>15 October  2016</date>
-</newsitem>
-
-<newsitem headline="Slab">
-<text>An open beta is now available on Slabs Google Plus Group. Any questions, make contact. </text>
-<date>11 October 2016</date>
+<date>15 October 2016</date>
 </newsitem>
 
 <newsitem headline="Enjoy my work?">
@@ -20,23 +40,8 @@
 <date>29 September 2016</date>
 </newsitem>
 
-<newsitem headline="Sapphire's Fall Update">
-<text>The new launcher update is expected to drop in October with a variety of interface changes and enhancements for Android N and bugs fixes that have been tracked since discovery. Stay tuned to GSD. </text>
-<date>27 September 2016</date>
-</newsitem>
-
-<newsitem headline="Nx Certificates">
-<text>The Sapphire Launcher license keys will be updated soon to be universal keys for future projects. They will also be renamed Nx certificates based on their class. This will not affect Sapphire Launcher users in any way but will affect any users who simply installed the APKs without purchasing them. A licensed verification will be made and I will be notified of who isn't using a verified key. This will be logged in the Google dev console. Your device will be logged simply, nothing more unless you have a past history of purchases with me or returns. </text>
-<date>23 September 2016</date>
-</newsitem>
-
 <newsitem headline="Game with the dev!">
 <text>Hit me up on PS4 Dracos_Aura or Windows10 Live GT Dracos Aura</text>
-<date>13 September 2016</date>
-</newsitem>
-
-<newsitem headline="2017 Expected Roadmap">
-<text>Several new apps are in development for GSD to release in 2017 and several major updates for legacy apps. A wide range of new tools, utilities and methods will be used to develop the new gen release of apps using 64bit technology and compilers. A great learning process. </text>
 <date>13 September 2016</date>
 </newsitem>
 
