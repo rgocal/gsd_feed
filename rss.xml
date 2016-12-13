@@ -1,29 +1,4 @@
 <news>
-
-<newsitem headline="Halo Online Companion">
-<text>If your a fan of Halo and ever played Halo Online ElDewrito mod for pc, An app is currently in development by GSD. </text>
-<date>12 November 2016</date>
-</newsitem>
-  
-<newsitem headline="GSD Mobile App Progress">
-<text>An update is scheduled in accordance with the updated GSD License keys of which youll be able to confirm purchased license for premium apps that are available. Expect this in the near future.</text>
-<date>12 November 2016</date>
-</newsitem>
-  
-<newsitem headline="Sapphire Launcher's Hotfix">
-<text>A Hotfix patch was pushed to Sapphire Launcher last week. This update focused on Nexus 6P and Pixel performance issues. Please report back if the patch helped you in any way or experiencing any more problems.  Ry</text>
-<date>12 November 2016</date>
-</newsitem>
-  
-<newsitem headline="Slab Open Beta">
-<text>Development of a new Dashclock Host app called Slab. Its heavily under construction at this time to provide as a stable host for Dashclock Extensions however you can join an open beta to help with development and provide feedback. https://plus.google.com/communities/114104888729574173929</text>
-<date>23 October 2016</date>
-</newsitem>
-  
-<newsitem headline="Changes Regarding Sapphire Launcher Keys">
-<text>Basic, Premium and Onyx Keys will be recieving a new update soon to allow them as a universal access pass to future apps developed by GocalSD so they are not just limited to Sapphire Launcher. More information to come as it becomes available.</text>
-<date>23 October 2016</date>
-</newsitem>
   
 <newsitem headline="GSD on Google Plus">
 <text>GocalSD has expanded its social media blogging to Google Plus to reach out to a more expanded focus group. You can join up by liking our page. https://plus.google.com/communities/108567249160916172770</text>
@@ -35,11 +10,6 @@
 <date>23 October 2016</date>
 </newsitem>
   
-<newsitem headline="Prism Assistant">
-<text>A new update has been pushed to Google Play to remove the paid option and make it free to all. Enjoy!</text>
-<date>15 October 2016</date>
-</newsitem>
-
 <newsitem headline="Enjoy my work?">
 <text>Please take the time to rate GSD Mobile on Google Play and share it with friends that may like my work. Im expanding my horizons in 2017 to increase popularity, revenue and knowledge. Bigger and better things are in the horizon.  </text>
 <date>29 September 2016</date>
@@ -49,15 +19,5 @@
 <text>Hit me up on PS4 Dracos_Aura or Windows10 Live GT Dracos Aura</text>
 <date>13 September 2016</date>
 </newsitem>
-
-<newsitem headline="System76 Kudo Donation">
-<text>Recent development is of need of a more powerful workspace. I am currently investing Onyx keys and Ads revenue towards a System 76 Kudo for Android development. If you'd like to donate to this, you may send a small donation to my gmail via Google Wallet. Recent updates Via windows10 have corrupted my ability to manage a dual boot system of Ubuntu and Windows and risking valuable information and data isnt apart of my game plan. </text>
-<date>8 September 2016</date>
-</newsitem>
-
-<newsitem headline="Welcome to the Newsfeed!">
-<text>You'll find current events, announcments, blog summaries, project exclusive info and more here!</text>
-<date>7 September 2016</date>
-</newsitem>
-
+  
 </news>
